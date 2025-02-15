@@ -1,0 +1,3 @@
+,model_name,model_param,score
+0,logistic,"{'C': 10, 'class_weight': {0: 1, 1: 10}, 'solver': 'liblinear'}",0.6682051762895432
+1,XGBoost,"{'colsample_bytree': 0.7, 'gamma': 0, 'learning_rate': 0.01, 'max_depth': 3, 'n_estimators': 100, 'scale_pos_weight': 0.0010518543990776046, 'subsample': 0.7}",0.0
